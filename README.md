@@ -1,0 +1,1 @@
+# Ferroelectric-film-dynamics-simulated-by-a-second-order-time-dependent-Landau-model
